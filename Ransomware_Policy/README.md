@@ -2,9 +2,7 @@
 
 ## 📌 Overview
 
-**Assignment 2: Develop an Organizational Ransomware Policy**  
-
-**Team Size:** 4 Members  
+**Develop an Organizational Ransomware Policy**  
 
 This project focused on developing a comprehensive ransomware policy tailored to the needs of Georgia Tech (GT). The policy aligns with NIST Cybersecurity Framework (CSF) 2.0 and integrates with existing institutional IT and cybersecurity policies to better prepare GT’s infrastructure and staff for preventing, detecting, responding to, and recovering from ransomware threats.
 
@@ -16,7 +14,7 @@ This project focused on developing a comprehensive ransomware policy tailored to
 - **Platform Used:** Google Docs / Microsoft Word / PDF tools
 - **Reference Frameworks:** NIST CSF 2.0 (Govern, Identify, Protect, Detect, Respond, Recover)
 - **Reference Documents:** [GT Cybersecurity Policies](https://policylibrary.gatech.edu/information-technology/cybersecurity-policies)  
-- **Team Members:** [Insert Team Member Names]
+- **Team Members Size:** 4 Members
 
 ---
 
