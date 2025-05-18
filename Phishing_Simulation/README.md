@@ -2,9 +2,7 @@
 
 ## 📌 Overview
 
-**Assignment 1: Go Phish**
-
-**Team Size:** 4 members
+**Phishing Simulation using GoPhish**
 
 This project involved the ethical simulation of a phishing attack targeting a designated TA to test social engineering techniques in a controlled academic environment.
 
@@ -14,7 +12,7 @@ This project involved the ethical simulation of a phishing attack targeting a de
 
 - **Objective:** Design and execute a realistic phishing campaign targeting our assigned TA to demonstrate understanding of phishing mechanics.
 - **Platform Used:** Google Slides (for presentation), external tools for email spoofing and domain setup
-- **Team Members:** [Insert Member Names]
+- **Team Members Size:** 4 Members
 
 ---
 
@@ -31,7 +29,7 @@ We clearly outlined what action we wanted the target to take and why:
 
 ### 2. Define the Target
 
-- **Primary Target:** Assigned TA ([Insert TA Name])
+- **Primary Target:** Assigned TA
 - **Reconnaissance:** Reviewed TA’s public student/academic profile
 - **Scope:** Targeted within the academic/professional context (no personal details used)
 
@@ -43,8 +41,6 @@ We clearly outlined what action we wanted the target to take and why:
 - **Infrastructure:**
   - **Delivery Vector:** Spoofed GaTech email
   - **Payload:** Phishing link leading to fake form
-  - **Backend:** [Describe if mock backend/server was simulated]
-
 ---
 
 ### 4. Construct & Deliver the Message
