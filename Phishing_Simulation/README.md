@@ -3,6 +3,7 @@
 ## 📌 Overview
 
 **Assignment 1: Go Phish**
+
 **Team Size:** 4 members
 
 This project involved the ethical simulation of a phishing attack targeting a designated TA to test social engineering techniques in a controlled academic environment.
